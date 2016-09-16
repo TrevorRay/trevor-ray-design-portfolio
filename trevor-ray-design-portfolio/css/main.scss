@@ -6,9 +6,9 @@
 
 
 // Our variables
-$base-font-family: 'Roboto', sans-serif;
-$title-font-family: 'Roboto Mono', monospace;
-$base-font-size:   18px;
+$base-font-family: 'Droid Serif', serif;
+$title-font-family: 'Roboto', sans-serif;
+$base-font-size:   20px;
 $base-font-weight: 300;
 $heavy-font-weight: 500;
 $small-font-size:  $base-font-size * 0.875;
@@ -18,7 +18,7 @@ $card-border-radius: 2px;
 $spacing-unit:     30px;
 
 $text-color:       #282828;
-$background-color: #F1F1F1;
+$background-color: #FFFFFF;
 $brand-color:      #f68a20;
 
 $white:            #FFFFFF;
@@ -29,6 +29,12 @@ $gray-color-dark:  darken($gray-color, 25%);
 
 // Width of the content area
 $content-width:    100%;
+
+// Transitions
+$transition-speed: ease-in-out, 0.3s;
+
+// Box shadoe
+$li-box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.3);
 
 $on-palm:          600px;
 $on-laptop:        800px;
