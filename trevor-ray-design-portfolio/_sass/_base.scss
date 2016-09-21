@@ -1,3 +1,9 @@
+* {
+  transition: $transition-speed;
+  transition-timing-function: ease-in-out;
+  box-sizing: border-box;
+}
+
 /**
  * Reset some basic elements
  */
@@ -80,8 +86,9 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+    font-weight: $heavy-font-weight;
     font-family: $title-font-family;
+    color: $gray-color-dark;
 }
 
 
@@ -90,11 +97,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $text-color;
+    color: $gray-color-dark;
     text-decoration: none;
 
-    &:hover {
-        text-decoration: underline;
+    &:hover,
+    &:active {
+        color: $brand-color;
+        text-decoration: none;
     }
 }
 
@@ -122,19 +131,19 @@ blockquote {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    max-width: 90%;
+    margin: $spacing-unit auto;
+    padding: 0 0;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+    @media(min-width: $medium) {
+        max-width: 85%;
+        margin: 0 auto $spacing-unit * 1.5;
+    }
+
+    @media(min-width: $large) {
+        max-width: 80%;
+        margin-top: $spacing-unit / 2;
     }
 }
 
@@ -172,8 +181,8 @@ blockquote {
 }
 
 .short-hr {
-  width: 20px;
-  height: 1px;
-  background-color: $gray-color;
-  margin: 0 0 $spacing-unit / 3;
+  width: 30px;
+  height: 2px;
+  background-color: $gray-color-dark;
+  margin: $spacing-unit / 3 0;
 }
