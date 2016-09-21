@@ -1,8 +1,8 @@
 ---
 layout: post
 thumbnail: communion1.jpg
-title:  "Select Logos"
-description: "2012 - Present"
+title:  "Brand Identity"
+description: "Select logos from 2012 - Present"
 date:   2000-01-01 09:20:26 -0400
 categories: Logos and Identity
 ---

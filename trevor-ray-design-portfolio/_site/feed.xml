@@ -6,25 +6,55 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Sep 2016 15:36:43 -0400</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 15:36:43 -0400</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 18:53:22 -0400</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 18:53:22 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Project Title</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-landing.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h1 id=&quot;communion-bakery--cafe&quot;&gt;Communion Bakery &amp;amp; Cafe&lt;/h1&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Communion Bakery &amp;amp; Cafe is a new bakery concept coming to Durham, North Carolina. Communion will start as a series of pop-up shops, with the intent of opening a high-end, late-night dessert bar in a brick-and-mortar location. Working directly with the founder, I developed an identity that reflected Communion’s focus on high quality products and superior ingredients, and appealed to their desired high-end market.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-navigation.jpg&quot; alt=&quot;Communion bakery navigation modal&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-category-product-type.jpeg&quot; alt=&quot;Communion bakery product category and product type&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-products-product-detail.jpeg&quot; alt=&quot;Communion bakery product list and product detail view&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-colors.png&quot; alt=&quot;Communion bakery brand colors&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-patterns.png&quot; alt=&quot;Communion bakery patterns&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-stationary.png&quot; alt=&quot;Communion bakery stationary&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-bag.png&quot; alt=&quot;Communion bakery large shopping bag&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-logo.jpeg&quot; alt=&quot;Communion bakery logo&quot; /&gt;
+&lt;/div&gt;
 
 </description>
         <pubDate>Sat, 08 Jan 2000 08:20:26 -0500</pubDate>
@@ -221,7 +251,7 @@
       </item>
     
       <item>
-        <title>Select Logos</title>
+        <title>Brand Identity</title>
         <description>&lt;p&gt;PyCon 2016 logo&lt;/p&gt;
 
 &lt;p&gt;Communion Bakery Wordmark&lt;/p&gt;
