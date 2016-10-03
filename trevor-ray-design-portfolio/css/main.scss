@@ -8,7 +8,7 @@
 // Our variables
 
 // Base Font
-$base-font-family: 'Droid Serif', serif;
+$base-font-family: 'Open Sans', serif;
 $title-font-family: 'Roboto', sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 300;
@@ -20,21 +20,21 @@ $base-line-height: 1.7;
 // Colors
 $white:            #FFFFFF;
 $black:            #000000;
-$gray-color:       #282828;
-$gray-color-light: lighten($gray-color, 30%);
+$gray-color:       #676965;
+$gray-color-light: lighten($gray-color, 35%);
 $gray-color-dark:  darken($gray-color, 25%);
 
 $spacing-unit:     30px;
 
-$text-color:       $gray-color-light;
-$background-color: #FFFFFF;
-$brand-color:      #c9b677;
+$text-color:       $gray-color-dark;
+$background-color: $gray-color-light;
+$brand-color:      #f68921;
 
 // Width of the content area
 $content-width:    100%;
 
 // Transitions
-$transition-speed: ease-in-out, 0.3s;
+$transition-speed: all 0.4s ease-in-out;
 
 // Box shadoe
 $li-box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.3);

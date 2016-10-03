@@ -1,26 +1,57 @@
 ---
 layout: post
-thumbnail: communion1.jpg
-title:  "Project Title"
-description: "Short project description"
+thumbnail: communion-app-landing.jpg
+title:  "Communion Bakery & Cafe"
+description: "Bringing together people and great dessert pairings"
 date:   2000-01-07 09:20:26 -0400
 categories: Cafe & Dining
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-app-landing.jpg" alt="Communion bakery landing view">
+</div>  
 
-Jekyll also offers powerful support for code snippets:
+# Communion Bakery & Cafe
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Communion Bakery & Cafe is a new bakery concept coming to Durham, North Carolina. Communion will start as a series of pop-up shops, with the intent of opening a high-end, late-night dessert bar in a brick-and-mortar location. Working directly with the founder, I developed an identity that reflected Communion’s focus on high quality products and superior ingredients, and appealed to their desired high-end market.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-app-navigation.jpg" alt="Communion bakery navigation modal">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-app-category-product-type.jpeg" alt="Communion bakery product category and product type">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-app-products-product-detail.jpeg" alt="Communion bakery product list and product detail view">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg" alt="Communion bakery shopping cart and checkout">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-app-colors.png" alt="Communion bakery brand colors">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-patterns.png" alt="Communion bakery patterns">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-stationary.png" alt="Communion bakery stationary">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-bag.png" alt="Communion bakery large shopping bag">
+</div>
+
+<div>
+  <img src="/assets/img/projects/thumbnails/communion-logo.jpeg" alt="Communion bakery logo">
+</div>
+
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

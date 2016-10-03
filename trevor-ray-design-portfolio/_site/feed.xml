@@ -6,12 +6,51 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 18:53:22 -0400</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 18:53:22 -0400</lastBuildDate>
+    <pubDate>Wed, 28 Sep 2016 09:57:51 -0700</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2016 09:57:51 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Project Title</title>
+        <title>EdensLand</title>
+        <description>&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/EdensLand-logo.jpg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;edensland&quot;&gt;EdensLand&lt;/h1&gt;
+
+&lt;p&gt;EdensLand is a fast growing, multidisciplinary civil engineering and land development firm located in Durham, NC. They work on projects ranging from land planning for residential development to infrastructure engineering for municipalities.&lt;/p&gt;
+
+&lt;p&gt;Working in collaboration with the EdensLand team, I developed the new EdensLand identity, stationary package, and brand style guide. The “E” mark symbolizes the stability and transparency of EdensLand. The curve at the base of the E both symbolizes the flexibility of the company.&lt;/p&gt;
+
+&lt;p&gt;The bright orange symbolizes the forward-thinking, youth, and optimism of EdensLand, while the deep blue symbolizes stability and trustworthiness. In addition to being very visible, the bright orange also helps distinguish EdensLand from their competitors. In an industry filed with blues and grays, the EdensLand orange and deep blue combination helps the company fit into the market while standing out from the crowd.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/EdensLand-logo-mark.jpg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/EdensLand-Stationary-Mock-Up.jpg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/EdensLand-Style-Guide.jpg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 08 Jan 2000 05:20:26 -0800</pubDate>
+        <link>http://yourdomain.com/logos/and/identity/2000/01/08/EdensLand.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/logos/and/identity/2000/01/08/EdensLand.html</guid>
+        
+        
+        <category>Logos</category>
+        
+        <category>and</category>
+        
+        <category>Identity</category>
+        
+      </item>
+    
+      <item>
+        <title>Communion Bakery &amp; Cafe</title>
         <description>&lt;div&gt;
   &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-landing.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
 &lt;/div&gt;
@@ -57,37 +96,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sat, 08 Jan 2000 08:20:26 -0500</pubDate>
-        <link>http://yourdomain.com/cafe/&/dining/2000/01/08/Communion.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/08/Communion.html</guid>
-        
-        
-        <category>Cafe</category>
-        
-        <category>&amp;</category>
-        
-        <category>Dining</category>
-        
-      </item>
-    
-      <item>
-        <title>Project Title</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 07 Jan 2000 08:20:26 -0500</pubDate>
+        <pubDate>Fri, 07 Jan 2000 05:20:26 -0800</pubDate>
         <link>http://yourdomain.com/cafe/&/dining/2000/01/07/Communion.html</link>
         <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/07/Communion.html</guid>
         
@@ -101,32 +110,59 @@
       </item>
     
       <item>
-        <title>Project Title</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Store Auditing App</title>
+        <description>&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/CT-My-Teams.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h1 id=&quot;store-auditing-web-app&quot;&gt;Store Auditing Web App&lt;/h1&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;My team and I had the opportunity to redesign and build a store auditing tool. The application helps administrators build audit forms, add stores to be audited, organize their teams, and assign groups of team members to audit stores. The goal was to simplify the process of finding and editing teams, allowing users to seamlessly assign those teams to stores that required an audit. The resulting UI is scannable, scalable, and streamlined - making assigning and editing tasks a simple process.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;As the lead designer for the project, I translated functional specs into wireframes and high fidelity UI mockups for key app pages. I also lead UI/UX meetings where my team and I established user flows and determined content hierarchy and user interactions. Throughout the project I worked one on one with the development team to ensure that all requirements were being met, and that final implementation was true to the designs.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/CT-My-Teams.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
+&lt;/div&gt;
 
+&lt;h2 id=&quot;my-teams-page&quot;&gt;My Teams Page&lt;/h2&gt;
+
+&lt;p&gt;From the my teams page admins have the ability to add a new team, view all teams associated with their account, and navigate to a teams detail page by clicking on any of the team cards.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/CT-Add-Teams.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;add-a-new-team&quot;&gt;Add a New Team&lt;/h2&gt;
+
+&lt;p&gt;Campaign leaders can quickly add a new store auditing team via the prominently placed add a new team cell. User interviews informed the team that team leads frequently utilized this functionality so it needed to be easy access and use.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/CT-Team-Detail.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;team-detail-page&quot;&gt;Team Detail Page&lt;/h2&gt;
+
+&lt;p&gt;From the team detail page, admins can review their teams progress on completing specific campaigns, prioritize campaigns via the drag-and-drop table, and navigate to a campaign page to make adjustments to campaign details.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/CT-Campaign-Builder.jpg&quot; alt=&quot;Communion bakery landing view&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;campaign-builder-view&quot;&gt;Campaign Builder View&lt;/h2&gt;
+
+&lt;p&gt;The campaign builder is the core of the store auditing app and houses the majority of its core functionality. The page utilizes drag and drop to make assembling the various sections of a campaign a simple matter of adding elements to a bucket. From the campaign builder page, admins can build forms which are collections of questions store auditors answer about the location they are auditing. Admins also search for locations to be audited via Google maps, choose the location they want to add, and drag it from the store search to the store list column. Finally admins can add new auditors to their teams and assign them to a store to complete an audit.&lt;/p&gt;
+
+&lt;p&gt;The linear progression of building sections of a campaign ensures that the admin can always see what stage of the campaign building process they are at. Admins can quickly review the decisions they have made and easily reverse a decision if the need arises. At any point, the admin can edit the details of a campaign which adds to the simplicity and fluidity of the campaign building process.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 06 Jan 2000 08:20:26 -0500</pubDate>
-        <link>http://yourdomain.com/cafe/&/dining/2000/01/06/Communion.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/06/Communion.html</guid>
+        <pubDate>Thu, 06 Jan 2000 05:20:26 -0800</pubDate>
+        <link>http://yourdomain.com/web/app/2000/01/06/Communion.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/app/2000/01/06/Communion.html</guid>
         
         
-        <category>Cafe</category>
+        <category>Web</category>
         
-        <category>&amp;</category>
-        
-        <category>Dining</category>
+        <category>App</category>
         
       </item>
     
@@ -147,7 +183,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 05 Jan 2000 08:20:26 -0500</pubDate>
+        <pubDate>Wed, 05 Jan 2000 05:20:26 -0800</pubDate>
         <link>http://yourdomain.com/cafe/&/dining/2000/01/05/Communion.html</link>
         <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/05/Communion.html</guid>
         
@@ -177,7 +213,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 04 Jan 2000 08:20:26 -0500</pubDate>
+        <pubDate>Tue, 04 Jan 2000 05:20:26 -0800</pubDate>
         <link>http://yourdomain.com/cafe/&/dining/2000/01/04/Communion.html</link>
         <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/04/Communion.html</guid>
         
@@ -207,7 +243,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 03 Jan 2000 08:20:26 -0500</pubDate>
+        <pubDate>Mon, 03 Jan 2000 05:20:26 -0800</pubDate>
         <link>http://yourdomain.com/cafe/&/dining/2000/01/03/Communion.html</link>
         <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/03/Communion.html</guid>
         
@@ -237,7 +273,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 02 Jan 2000 08:20:26 -0500</pubDate>
+        <pubDate>Sun, 02 Jan 2000 05:20:26 -0800</pubDate>
         <link>http://yourdomain.com/cafe/&/dining/2000/01/02/Communion.html</link>
         <guid isPermaLink="true">http://yourdomain.com/cafe/&/dining/2000/01/02/Communion.html</guid>
         
@@ -252,25 +288,49 @@
     
       <item>
         <title>Brand Identity</title>
-        <description>&lt;p&gt;PyCon 2016 logo&lt;/p&gt;
+        <description>&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;PyCon 2016 logo&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Communion Bakery Wordmark&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Duckling Logo&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Durham Women in Tech Logo&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Durham Women in Tech Logo - circle lockup&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Greif industrial Packaging logo concept&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Serious Dough Doughnut Shop logo&lt;/p&gt;
 
+&lt;div&gt;
+  &lt;img src=&quot;/assets/img/projects/thumbnails/communion-app-shopping-cart-checkout.jpeg&quot; alt=&quot;Communion bakery shopping cart and checkout&quot; /&gt;
+&lt;/div&gt;
 &lt;p&gt;Travel Gigs logo&lt;/p&gt;
 </description>
-        <pubDate>Sat, 01 Jan 2000 08:20:26 -0500</pubDate>
-        <link>http://yourdomain.com/logos/and/identity/2000/01/01/Communion.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/logos/and/identity/2000/01/01/Communion.html</guid>
+        <pubDate>Sat, 01 Jan 2000 05:20:26 -0800</pubDate>
+        <link>http://yourdomain.com/logos/and/identity/2000/01/01/select-logos.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/logos/and/identity/2000/01/01/select-logos.html</guid>
         
         
         <category>Logos</category>

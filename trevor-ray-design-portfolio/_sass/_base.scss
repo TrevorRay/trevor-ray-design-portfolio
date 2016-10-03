@@ -2,6 +2,8 @@
   transition: $transition-speed;
   transition-timing-function: ease-in-out;
   box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 }
 
 /**
@@ -100,10 +102,16 @@ a {
     color: $gray-color-dark;
     text-decoration: none;
 
-    &:hover,
-    &:active {
-        color: $brand-color;
-        text-decoration: none;
+    &:after {
+      display: block;
+      content: '';
+      border-bottom: 2px solid rgba(103, 105, 101, 1.0);
+      transform: scaleX(0.0001);
+      transition: $transition-speed;
+    }
+
+    &:hover:after {
+      transform: scaleX(1);
     }
 }
 
@@ -138,12 +146,11 @@ blockquote {
 
     @media(min-width: $medium) {
         max-width: 85%;
-        margin: 0 auto $spacing-unit * 1.5;
+        margin: 0 auto;
     }
 
     @media(min-width: $large) {
         max-width: 80%;
-        margin-top: $spacing-unit / 2;
     }
 }
 
@@ -183,6 +190,6 @@ blockquote {
 .short-hr {
   width: 30px;
   height: 2px;
-  background-color: $gray-color-dark;
+  background-color: $white;
   margin: $spacing-unit / 3 0;
 }
