@@ -22,7 +22,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background-color: $white;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -136,27 +136,6 @@ blockquote {
 
 
 /**
- * Wrapper
- */
-.wrapper {
-    max-width: 90%;
-    margin: $spacing-unit auto;
-    padding: 0 0;
-    @extend %clearfix;
-
-    @media(min-width: $medium) {
-        max-width: 85%;
-        margin: 0 auto;
-    }
-
-    @media(min-width: $large) {
-        max-width: 80%;
-    }
-}
-
-
-
-/**
  * Clearfix
  */
 %clearfix {
@@ -167,7 +146,6 @@ blockquote {
         clear: both;
     }
 }
-
 
 
 /**
@@ -192,4 +170,290 @@ blockquote {
   height: 2px;
   background-color: $white;
   margin: $spacing-unit / 3 0;
+}
+
+
+/**
+ * Site header
+ */
+.site-header {
+    background-color: $background-color;
+
+    .wrapper {
+
+        ul.main-menu {
+
+            li {
+                list-style: none;
+            }
+
+            li.item-1 {
+                text-align: left;
+
+                a {
+                    .logo-mark {
+                        background: url(/assets/logo/organic-t-logo-mark.svg) no-repeat 50% 50%;
+                        background-position: center;
+                        width: 32px;
+                        height: 32px;
+                    }
+
+                    .logo-mark {
+                        background-repeat: no-repeat;
+                        display: inline-block;
+
+                        @media(min-width: $large) {
+                            height: 50px;
+                        }
+                    }
+
+                    &:after {
+                        border-bottom: 1px solid rgba(103, 105, 101, 0.0);
+                    }
+
+                    &:hover:after {
+                          border-bottom: 1px solid rgba(103, 105, 101, 0.0);
+                    }
+                }
+
+                &:hover {
+                    .logo-mark {
+                        background: url(/assets/logo/organic-t-logo-mark-filled.svg) no-repeat 50% 50%;
+                    }
+                }
+            }
+
+            li.item-2 {
+                text-align: right;
+
+                .page-link {
+                    margin-left: $spacing-unit;
+                    font-family: $title-font-family;
+                    line-height: $base-line-height;
+                }
+            }
+        }
+    }
+}
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+    background-color: $white;
+
+    a {
+        &:after {
+            border-bottom: 1px solid rgba(103, 105, 101, 0.0);
+        }
+
+        &:hover:after {
+              border-bottom: 1px solid rgba(103, 105, 101, 0.0);
+        }
+    }
+}
+
+.footer-heading {
+    font-size: 18px;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+}
+
+.footer-col-wrapper {
+    font-size: $base-font-size*0.8;
+    margin-left: $spacing-unit / 2;
+    @extend %clearfix;
+}
+
+
+/**
+ * Page content
+ */
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    list-style: none;
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $gray-color;
+}
+
+.post-link {
+    font-size: 24px;
+}
+
+
+/**
+ * Posts
+ */
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($large) {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+
+    h1, h2, h3, h4, h5, h6 {
+        color: $white;
+    }
+
+    h1 {
+        font-size: $base-font-size * 1.7;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: $base-font-size * 1.6;
+
+        @include media-query($large) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: $base-font-size * 1.4;
+
+        @include media-query($large) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: $base-font-size * 1.2;
+
+        @include media-query($large) {
+            font-size: 18px;
+        }
+    }
+}
+
+
+/**
+ * Home
+ */
+
+.page-content > .home {
+
+    .wrapper {
+
+        ul.post-list {
+            list-style: none;
+        }
+
+        li {
+            background-color: $black;
+
+            a {
+                text-decoration: none;
+
+                &:after {
+                    border-bottom: none;
+                }
+
+                &:hover:after {
+                    border-bottom: none;
+                }
+
+                .post-hero {
+                    background-repeat: no-repeat;
+                    background-position: center center;
+                    -webkit-background-size: cover;
+                    background-size: cover;
+                    opacity: 1.0;
+                }
+
+                .content {
+                    padding: 0 10%;
+                    opacity: 0.0;
+                    text-align: center;
+                    -webkit-transform: translateY(-50%);
+                    -moz-transform: translateY(-50%);
+                    -ms-transform: translateY(-50%);
+                    -o-transform: translateY(-50%);
+                    transform: translateY(-50%);
+                    -webkit-transition: all 0.5s ease-in-out;
+                    -moz-transition: all 0.5s ease-in-out;
+                    transition: all 0.5s ease-in-out;
+
+                    h2,
+                    p.post-description {
+                        color: $white;
+                    }
+
+                    h2 {
+                        font-size: $base-font-size * 1.25;
+                        font-weight: 300;
+                    }
+
+                    p.post-description {
+                        line-height: 1.25;
+                        font-size: $base-font-size;
+                        letter-spacing: 0.5px;
+                    }
+                }
+            }
+
+            @media(min-width: $medium) {
+
+                a {
+
+                    .content {
+
+                        h2 {
+                            font-size: $base-font-size * 1.5;
+                        }
+                    }
+                }
+            }
+
+            @media(min-width: $large) {
+
+                a {
+
+                    .content {
+
+                        h2 {
+                            font-size: $base-font-size * 1.75;
+                            line-height: $base-line-height * 0.7;
+                        }
+
+                        p.post-description {
+                            font-size: $base-font-size;
+                        }
+                    }
+                }
+            }
+
+            &:hover {
+              box-shadow: $li-box-shadow;
+
+                a {
+                    text-decoration: none;
+
+                    .post-hero {
+                        opacity: 0.05;
+                    }
+
+                    .content {
+                        opacity: 1.0;
+                    }
+                }
+            }
+        }
+    }
 }
